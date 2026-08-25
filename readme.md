@@ -106,6 +106,8 @@ Anime Feature Extraction/
 
 **Malik Waleed Hussain**
 
+**BS Computer Science Student**
+
 <a href="https://github.com/waleed4we">
 <img src="https://img.shields.io/badge/GitHub-waleed4we-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
