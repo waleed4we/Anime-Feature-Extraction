@@ -13,7 +13,7 @@
 
 </div>
 
-## 📌 About This Project
+## 📌 About The Project
 
 This project takes a **raw, messy anime dataset** (`anime.csv`) where a single `Title` column contains multiple pieces of information jumbled together — the anime's name, episode count, airing timespan, and member count all mixed into one string — and turn it into a clean, analysis-ready dataset.
 
