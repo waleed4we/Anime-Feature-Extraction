@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎌 Anime Feature Extraction & EDA
+# Anime Feature Extraction & EDA
 
 ### Cleaning messy scraped anime data and uncovering insights using Pandas, NumPy & String Regex 
 
