@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🎌 Anime Feature Extraction & EDA
+# Anime Feature Extraction & EDA
 
-### Cleaning messy scraped anime data and uncovering insights using Pandas, NumPy & Regex
+### Cleaning messy scraped anime data and uncovering insights using Pandas, NumPy & String Regex 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -15,7 +15,7 @@
 
 ## 📌 About The Project
 
-This project takes a **raw, messy anime dataset** (`anime.csv`) where a single `Title` column contains multiple pieces of information jumbled together — the anime's name, episode count, airing timespan, and member count all mixed into one string — and turns it into a clean, analysis-ready dataset.
+This project takes a **raw, messy anime dataset** (`anime.csv`) where a single `Title` column contains multiple pieces of information jumbled together — the anime's name, episode count, airing timespan, and member count all mixed into one string — and turn it into a clean, analysis-ready dataset.
 
 The project is split into **two stages**:
 
@@ -105,6 +105,8 @@ Anime Feature Extraction/
 <div align="center">
 
 **Malik Waleed Hussain**
+
+**BS Computer Science Student**
 
 <a href="https://github.com/waleed4we">
 <img src="https://img.shields.io/badge/GitHub-waleed4we-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
