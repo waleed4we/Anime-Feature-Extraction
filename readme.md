@@ -2,7 +2,7 @@
 
 # Anime Feature Extraction & EDA
 
-### Cleaning Messy Scraped Anime Data And Uncovering Insights Using Pandas, NumPy & String Regex 
+### Cleaning Messy Scraped Anime Data And Uncovering Insights Using Pandas, NumPy & String Regexes
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
